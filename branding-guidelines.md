@@ -1,5 +1,4 @@
 # Branding Guidelines
-
 ## Name
 
 OpenFeature should be stylized as pascal case (i.e. `OpenFeature`) when possible. In situations where that's not possible, kebab case can be used (i.e. `open-feature`)
